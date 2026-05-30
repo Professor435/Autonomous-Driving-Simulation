@@ -56,4 +56,4 @@
 4. Watch the AI learn to dodge traffic over generations
 5. Save the best brain when satisfied, then test it in **Test Best** mode
 
-for more projects contact (professorshami435@gmail.com)
+for more projects or FYP's contact (professorshami435@gmail.com)
