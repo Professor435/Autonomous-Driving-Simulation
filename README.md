@@ -4,7 +4,7 @@
  
 ---
 
-## What's Inside — Complete Feature Set 
+## What's Inside — Complete Feature Set  
  
 ### 🧠 AI & Machine Learning
 - **Feedforward Neural Network** (9 → 6 → 4 architecture)
