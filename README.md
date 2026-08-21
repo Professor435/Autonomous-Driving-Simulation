@@ -7,7 +7,7 @@
 ## What's Inside — Complete Feature Set  
  
 ### 🧠 AI & Machine Learning 
-- **Feedforward Neural Network** (9 → 6 → 4 architecture)
+- **Feedforward Neural Network** (9 → 6 → 4 architecture) 
 - **Evolutionary Training** via mutation-based genetic algorithms
 - **Real-time Neural Network Visualization** with animated neurons and weighted connections
 - **Brain Persistence** — save/load best brains via localStorage
