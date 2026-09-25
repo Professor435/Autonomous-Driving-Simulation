@@ -52,7 +52,7 @@
 ## How to Use
 1. Download the file
 2. Open `neurodrive_simulation.html` in any modern browser
-3. Click **Start Simulation** to begin training
+3. Click **Start Simulation** to begin training 
 4. Watch the AI learn to dodge traffic over generations
 5. Save the best brain when satisfied, then test it in **Test Best** mode
 
